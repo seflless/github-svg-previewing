@@ -3,3 +3,5 @@ This repo holds experiments and demonstrations of rendering issues in Github's S
 
 ### Large Test Suite (Embedded Font)
 <img src="mega-file.svg"/>
+
+<img src="tldraw-embedded-font.svg"/>
